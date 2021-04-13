@@ -11,6 +11,12 @@ Revisar también si el nombre y apellidos son correctos.
 | Ferran | Mora Espi | ferrans73 | ferran-73 | SI | SI |
 | Carlos | Reyes Guerola | Carlos Reyes Guerola | Reyes4711 | SI | SI |
 | Angel | Moya Pardo | angelmoya | angelmoya | SI | SI |
+| Iker | Arambarri | aramba9 | ikerarambarri | SI | SI |
+| David | Maeso Abad | eurodego | eurodego | SI | SI |
+| Xavier | Gutierrez | jgutierrez | xavigutipujol | SI | SI |
+| Alicia | Garzo Moreno | aliciagarzo | aliciagaarzo | SI | SI |
+| Fernando | Hernandez Conesa | Fernando Hernandez | elPansi | SI | SI |
+| Marc | Ponce Plaza | MarcPoncePlaza#3676 | marcpp | SI | SI |
 | David | Borromeo Tarres | David Borromeo | DavidBForgeFlow | SI | SI |
 | Javier | Sanchez Cadenas |JAvier Sanchez CAdenas | JSanchezCAD | SI | SI
 | Laia | Espinosa Rafols | Laia Espinosa Rafols | laiaespinosa | SI | SI |
@@ -21,3 +27,6 @@ Revisar también si el nombre y apellidos son correctos.
 | Fernando | Plaza | ferplaza | fermatrix | SI | SI |
 | Christian | Santamaría Cameselle | christian_ | ChristianSantamaría | SI | SI |
 | Jorge | Ordóñez Vázquez | jorge.ordonez | jorgeorvaz | SI | SI |
+| Gregorio | Cobacho Navarro | gcobacho | gcobacho | SI | SI |
+| Félix | Rojo Trueba |redmancete | redmancete | SI | SI |
+| Xavier | Sbert Colom | Xavi Sbert | XaviSbert | SI | SI |

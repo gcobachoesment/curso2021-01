@@ -31,3 +31,5 @@ Revisar también si el nombre y apellidos son correctos.
 | Félix | Rojo Trueba |redmancete | redmancete | SI | SI |
 | Xavier | Sbert Colom | Xavi Sbert | XaviSbert | SI | SI |
 | Gregorichi
+
+Gregorichi3

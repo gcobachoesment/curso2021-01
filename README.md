@@ -32,3 +32,4 @@ Revisar también si el nombre y apellidos son correctos.
 | Xavier | Sbert Colom | Xavi Sbert | XaviSbert | SI | SI |
 | Gregorichi
 Gregorichi2
+Gregorichi3
